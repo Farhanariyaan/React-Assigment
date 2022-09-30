@@ -47,7 +47,7 @@ const Exercise = () => {
                     {/* blog  */}
 
                     <div className='mt-5 p-3'>
-                         <h1 className='text-center text-dark '>Blog</h1>
+                         <h1 className='text-center'>Blog</h1>
                          <div class="accordion" id="accordionExample">
                               <div class="accordion-item">
                                    <h2 class="accordion-header" id="headingOne">
