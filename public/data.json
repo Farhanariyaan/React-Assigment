@@ -1,0 +1,50 @@
+[
+     {
+          "img": "https://onnitacademy.imgix.net/wp-content/uploads/2018/12/dbrack.jpg",
+          "title": "Dumble",
+          "description": "Dumbbells typically offer a better range of motion than barbells, allowing you to build even more strength in the pectoral area. A quality dumbbell bench press will also spruce up those triceps and work the shoulder muscles as well. ",
+          "age": "20-30",
+          "id": 3984,
+          "time": 70
+     },
+     {
+          "img": "https://www.livin3.com/wp-content/uploads/2018/10/man-using-legextension-machine.jpg",
+          "title": "Leg extension machine",
+          "description": "There are dozens of leg machines you can use to work your lower body, but one of the best ones to use is the leg extension machine.",
+          "age": "18-25",
+          "id": 9728,
+          "time": 40
+     },
+     {
+          "img": "https://fitatmidlife.com/wp-content/uploads/Rep-Fitness-AB-5100-Adjustable-Bench-1024x682.jpg",
+          "title": "Adjustable bench",
+          "description": "The adjustable bench is a very essential gym equipment to have in your Gym. It has a flat, incline and decline position where you can have entirely six several positions curves steady for a coalition grip",
+          "age": " 20-26",
+          "id": 87920,
+          "time": 48
+     },
+     {
+          "img": "https://us.123rf.com/450wm/rido/rido1905/rido190500048/123419412-determined-african-american-man-lifting-weight-in-gym-muscular-strong-man-taking-efforts-to-lift-wei.jpg?ver=6",
+          "title": "Barbell",
+          "description": "barbells are also another very important gym equipment. It is used in bodybuilding, weight  g, weightlifting. It has a very long bar. At both ends, some weights are attached. ",
+          "age": "20-25",
+          "id": 98673,
+          "time": 50
+     },
+     {
+          "img": "https://empire-s3-production.bobvila.com/articles/wp-content/uploads/2020/11/Best_Exercise_Ball_Options-650x445.jpg",
+          "title": "Exercise ball",
+          "description": "The exercise or yoga ball is made with very soft elastic that is mainly a diameter of 35 to 85 centimetres. This hollow ball is filled with air. If you remove the valve stem the air pressure will get changed   air.",
+          "age": "15-30",
+          "id": 869634,
+          "time": 60
+     },
+     {
+          "img": "https://i.insider.com/5de52b55fd9db21fa248fc4a?width=700",
+          "title": "Treadmill",
+          "description": "The treadmill comes first in the gym equipment list. Because it is the most important equipment for all the gyms. There are so many types and a section of treadmills for single and multi-station gyms.",
+          "age": " 20-30",
+          "id": 76666,
+          "time": 45
+     }
+]

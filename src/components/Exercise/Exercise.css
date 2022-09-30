@@ -1,0 +1,79 @@
+ .exercise-container {
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+ }
+
+ .equipments {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    row-gap: 20px;
+    column-gap: 20px;
+ }
+
+ .card {
+    height: 480px;
+    border-radius: 10px;
+ }
+
+ .equipment-container {
+    margin: 50px;
+ }
+
+ .activities {
+    background-color: rgb(88, 84, 84);
+
+ }
+
+
+ /* responsive  */
+
+ @media only screen and (max-width:600px) {
+    .exercise-container {
+       display: grid;
+       grid-template-columns: repeat(1fr, 1fr);
+       display: flex;
+       flex-direction: column;
+
+
+    }
+
+    .equipment-container {
+       margin: 60px;
+    }
+
+    .equipments {
+       display: grid;
+       grid-template-columns: repeat(1, 1fr);
+
+    }
+
+    .activities {
+       margin: 40px;
+
+
+    }
+
+ }
+
+
+ @media only screen and (min-width:601px) and (max-width:1000px) {
+    .exercise-container {
+       display: grid;
+       grid-template-columns: 2fr, 1fr;
+       display: flex;
+       flex-direction: column;
+
+
+    }
+
+    .equipments {
+       display: grid;
+       grid-template-columns: repeat(2, 1fr);
+
+
+    }
+
+    .equipment-container {
+       margin: 60px;
+    }
+ }
