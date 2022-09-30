@@ -12,7 +12,7 @@ const Equipment = (props) => {
             <div className="card bg-secondary" style={{ width: "19rem" }}>
                 <img className='rounded m-3 mb-0 image' src={img} alt="" />
                 <div className="card-body">
-                    <h5 className="card-title text-white">{title}</h5>
+                    <h5 className="card-title">{title}</h5>
                     <p className="card-text text-white">{description.slice(0,100)}</p>
                     <h6 className='text-white'>For Age: {age}</h6>
                     <h6 className='text-white'>Time Required: {time} sec</h6>
