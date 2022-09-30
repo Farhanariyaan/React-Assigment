@@ -59,7 +59,7 @@ const Activities = (props) => {
                     {/* add a break */}
 
                     <div className='mt-3 text-info'>
-                         <h5>Add A Break</h5>
+                         <h1>Add A Break</h1>
                     </div>
                     <div className='break bg d-flex bg  justify-content-between p-3 mt-4'>
 
